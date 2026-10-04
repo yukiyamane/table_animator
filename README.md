@@ -1,12 +1,12 @@
 # Table Animator
 
-This is the source code for a personal project built with Panda3D.
-Since resources for these libraries are limited, I am sharing my implementation.
-I hope this serve as a helpful reference.
+This is the source code for a personal project built with Panda3D.<br>
+Since resources for these libraries are limited, I am sharing my implementation.<br>
+I hope this serve as a helpful reference.<br>
 Note: This repository contains source code only. Models, fonts, and other assets are not included.
 
-Panda3D を使用した自作アプリのソースコードです。
-使用者の少ないライブラリなので私の制作例を公開します。参考になれば幸いです。
+Panda3D を使用した自作アプリのソースコードです。<br>
+使用者の少ないライブラリなので私の制作例を公開します。参考になれば幸いです。<br>
 ※モデルやフォントなどのアセットは含まれていません。ソースコードのみのリポジトリです。
 
 ## Environment / 環境
